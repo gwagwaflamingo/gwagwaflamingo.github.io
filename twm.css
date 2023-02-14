@@ -9,24 +9,24 @@
   font-family: Terminus;
   font-weight: bold;
   font-style: italic;
-  src: url('https://gwagwaflamingo.github.io/TerminusTTFWindows-Bold Italic-4.49.2.ttf');
+  src: url('https://gwagwaflamingo.github.io/TerminusTTFWindows-Bold Italic-4.49.2.ttf') format('truetype');
 }
 @font-face {
   font-family: Terminus;
   font-weight: bold;
   font-style: normal;
-  src: url('https://gwagwaflamingo.github.io/TerminusTTFWindows-Bold-4.49.2.ttf');
+  src: url('https://gwagwaflamingo.github.io/TerminusTTFWindows-Bold-4.49.2.ttf') format('truetype');
 }
 @font-face {
   font-family: Terminus;
   font-weight: normal;
   font-style: italic;
-  src: url('https://gwagwaflamingo.github.io/TerminusTTFWindows-Italic-4.49.2.ttf');
+  src: url('https://gwagwaflamingo.github.io/TerminusTTFWindows-Italic-4.49.2.ttf') format('truetype');
 }
 @font-face {
   font-family: Terminus;
   font-weight: normal;
   font-style: normal;
-  src: url('https://gwagwaflamingo.github.io/TerminusTTFWindows-4.49.2.ttf');
+  src: url('https://gwagwaflamingo.github.io/TerminusTTFWindows-4.49.2.ttf') format('truetype');
 }
 
